@@ -30,5 +30,5 @@ document.getElementById('enquiryForm').addEventListener('submit', function (even
     `Service: ${encodeURIComponent(service)}%0A` +
     `Message: ${encodeURIComponent(message || 'Please contact me.')}`;
 
-  window.open(`https://wa.me/919350813451?text=${text}`, '_blank');
+  window.open(`https://wa.me/919412069159?text=${text}`, '_blank');
 });
